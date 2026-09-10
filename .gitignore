@@ -1,0 +1,10 @@
+data/
+models/
+outputs/
+*.sif
+*.tar
+*.zip
+__pycache__/
+*.pyc
+.venv/
+.env
