@@ -1,0 +1,30 @@
+{
+  "dialect": "alphafold3",
+  "version": 4,
+  "name": "test_complex",
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "PVLSCGEWQL",
+        "modifications": [],
+        "unpairedMsa": ">query\nPVLSCGEWQL\n",
+        "pairedMsa": ">query\nPVLSCGEWQL\n",
+        "templates": []
+      }
+    },
+    {
+      "rna": {
+        "id": "B",
+        "sequence": "AGCU",
+        "modifications": [],
+        "unpairedMsa": ">query\nAGCU\n"
+      }
+    }
+  ],
+  "modelSeeds": [
+    1
+  ],
+  "bondedAtomPairs": null,
+  "userCCD": null
+}

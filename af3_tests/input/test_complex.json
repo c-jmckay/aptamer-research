@@ -1,0 +1,20 @@
+{
+  "name": "test_complex",
+  "modelSeeds": [1],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "PVLSCGEWQL"
+      }
+    },
+    {
+      "rna": {
+        "id": "B",
+        "sequence": "AGCU"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}
