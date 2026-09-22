@@ -1,0 +1,22 @@
+{
+  "name": "10000012_basic_fibroblast_growth_factor_bfgf_21a",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "GHFKDPKRLYCKNGGFFLRIHPDGRVDGVREKSDPHIKLQLQAEERGVVSIKGVSANRYLAMKEDGRLLASKSVTDECFFFERLESNNYNTYRSRKYTSWYVALKRTGQYKLGSKTGPGQKAILFLPMSAKS"
+      }
+    },
+    {
+      "rna": {
+        "id": "B",
+        "sequence": "GGGAGCUCAGAAUAAACGCUCAAUGGGUGCUUAACCAGGCCACACCCUGCUGUUUCGACAUGAGGCCCGGAUCCGGC"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}

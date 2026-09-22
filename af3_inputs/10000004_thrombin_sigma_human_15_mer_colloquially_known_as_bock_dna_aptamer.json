@@ -1,0 +1,28 @@
+{
+  "name": "10000004_thrombin_sigma_human_15_mer_colloquially_known_as_bock_dna_aptamer",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "TFGSGEADCGLRPLFEKKSLEDKTERELLESYIDGR"
+      }
+    },
+    {
+      "protein": {
+        "id": "B",
+        "sequence": "IVEGSDAEIGMSPWQVMLFRKSPQELLCGASLISDRWVLTAAHCLLYPPWDKNFTENDLLVRIGKHSRTRYERNIEKISMLEKIYIHPRYNWRENLDRDIALMKLKKPVAFSDYIHPVCLPDRETAASLLQAGYKGRVTGWGNLKETWTANVGKGQPSVLQVVNLPIVERPVCKDSTRIRITDNMFCAGYKPDEGKRGDACEGDSGGPFVMKSPFNNRWYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWIQKVIDQFGE"
+      }
+    },
+    {
+      "dna": {
+        "id": "C",
+        "sequence": "GGTTGGTGTGGTTGG"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}

@@ -1,0 +1,22 @@
+{
+  "name": "10000392_ribonucleases_rnase_h2_human_vi_2",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "GSHMGDFVVVYTDGCCSSNGRRRPRAGIGVYWGPGHPLNVGIRLPGRQTNQRAEIHAACKAIEQAKTQNINKLVLYTNSMFTINGITNWVQGWKKNGWKTSAGKEVINKEDFVALERLTQGMDIQWMHVPGHSGFIGNEEADRLAREGAKQSED"
+      }
+    },
+    {
+      "dna": {
+        "id": "B",
+        "sequence": "CGGTCGCTCCGTGTGGCTTGGGTTGGGTGTGGCAGTGAC"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}

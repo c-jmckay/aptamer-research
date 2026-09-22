@@ -1,0 +1,28 @@
+{
+  "name": "10000394_thrombin_bovine_t710",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "TSEDHFQPFFNEKTFGAGEADCGLRPLFEKKQVQDQTEKELFESYIEGR"
+      }
+    },
+    {
+      "protein": {
+        "id": "B",
+        "sequence": "IVEGQDAEVGLSPWQVMLFRKSPQELLCGASLISDRWVLTAAHCLLYPPWDKNFTVDDLLVRIGKHSRTRYERKVEKISMLDKIYIHPRYNWKENLDRDIALLKLKRPIELSDYIHPVCLPDKQTAAKLLHAGFKGRVTGWGNRRETWTTSVAEVQPSVLQVVNLPLVERPVCKASTRIRITDNMFCAGYKPGEGKRGDACEGDSGGPFVMKSPYNNRWYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWIQKVIDRLGS"
+      }
+    },
+    {
+      "rna": {
+        "id": "C",
+        "sequence": "GCAAUGGUACGGUACUUCCAAGUGCGGGGGGGAGGUGGUGGUUCCAAAAGUGCACGCUACUUUGCUAA"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}

@@ -1,0 +1,22 @@
+{
+  "name": "10000009_basic_fibroblast_growth_factor_bfgf_7a",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "GHFKDPKRLYCKNGGFFLRIHPDGRVDGVREKSDPHIKLQLQAEERGVVSIKGVSANRYLAMKEDGRLLASKSVTDECFFFERLESNNYNTYRSRKYTSWYVALKRTGQYKLGSKTGPGQKAILFLPMSAKS"
+      }
+    },
+    {
+      "rna": {
+        "id": "B",
+        "sequence": "GGGAGCUCAGAAUAAACGCUCAAUCGGCGAGCUAACCAAGACACUCGCUGCACUUCGACAUGAGGCCCGGAUCCGGC"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}

@@ -1,0 +1,22 @@
+{
+  "name": "10000484_tumor_necrosis_factor_alpha_htnf_human_6",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "VRSSSRTPSDKPVAHVVANPQAEGQLQWLNDRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLDFAESGQVYFGIIAL"
+      }
+    },
+    {
+      "rna": {
+        "id": "B",
+        "sequence": "GGGAGGACGAUGUUAGACUUCUUGUGCCAUUAUGAAUUAUUGCUAAUCCUCUUGAAAGAAGACUCGCAAGA"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}

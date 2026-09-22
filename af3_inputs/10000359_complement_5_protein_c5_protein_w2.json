@@ -1,0 +1,22 @@
+{
+  "name": "10000359_complement_5_protein_c5_protein_w2",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "GSHMADCGQMQEELDLTISAETRKQTACKPEIAYAYKVSITSITVENVFVKYKATLLDIYKTGEAVAEKDSEITFIKKVTCTNAELVKGRQYLIMGKEALQIKYNASFRYIYPLDSLTWIEYWPRDTTCSSCQAFLANLDEFAEDIFLNGC"
+      }
+    },
+    {
+      "rna": {
+        "id": "B",
+        "sequence": "CGUCCCUUCGCAACCCUUUAAGACUUGGGACCCUGCUCUU"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}

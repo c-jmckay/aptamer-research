@@ -1,0 +1,11 @@
+version: 1
+sequences:
+- protein:
+    id: A
+    sequence: MIQNFRVYYRDSRDPVWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKIIRD
+- rna:
+    id: B
+    sequence: GGGAGCUCAGAAUAAACGCUCAACCAGUCUUGUGGCUUUGAAAGAGAGGAGUGUUCGACAUGAGGCCCGGAUCCGGC
+properties:
+- affinity:
+    binder: B

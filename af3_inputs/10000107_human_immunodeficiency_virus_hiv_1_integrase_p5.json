@@ -1,0 +1,22 @@
+{
+  "name": "10000107_human_immunodeficiency_virus_hiv_1_integrase_p5",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "MIQNFRVYYRDSRDPVWKGPAKLLWKGEGAVVIQDNSDIKVVPRRKAKIIRD"
+      }
+    },
+    {
+      "rna": {
+        "id": "B",
+        "sequence": "GGGAGCUCAGAAUAAACGCUCAACCAGUCUUGUGGCUUUGAAAGAGAGGAGUGUUCGACAUGAGGCCCGGAUCCGGC"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}

@@ -1,0 +1,22 @@
+{
+  "name": "10000549_liver_x_receptors_beta_lxrbeta_lxr_apt_67",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "GSEGEGVQLTAAQELMIQQLVAAQLQCNKRSFSDQPKVTPWPLGADPQSRDARQQRFAHFTELAIISVQEIVDFAKQVPGFLQLGREDQIALLKASTIEIMLLETARRYNHETECITFLKDFTYSKDDFHRAGLQVEFINPIFEFSRAMRRLGLDDAEYALLIAINIFSADRPNVQEPGRVEALQQPYVEALLSYTRIKRPQDQLRFPRMLMKLVSLRTLSSVHSEQVFALRLQDKKLPPLLSEIWDVHE"
+      }
+    },
+    {
+      "dna": {
+        "id": "B",
+        "sequence": "ATGACCATGACCCTCCACACATGACGATGGGATCAGACTGTGGCAGGGAAAC"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}

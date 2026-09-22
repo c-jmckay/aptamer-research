@@ -1,0 +1,22 @@
+{
+  "name": "10000401_mammalian_translation_initiation_factor_4a_eif4a_30",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": "A",
+        "sequence": "SMEGVIESNWNEIVDSFDDMNLSESLLRGIYAYGFEKPSAIQQRAILPCIKGYDVIAQAQSGTGKTATFAISILQQIELDLKATQALVLAPTRELAQQIQKVVMALGDYMGASCHACIGGTNVRAEVQKLQMEAPHIIVGTPGRVFDMLNRRYLSPKYIKMFVLDEADEMLSRGFKDQIYDIFQKLNSNTQVVLLSATMPSDVLEVTKKFMRDPIRILVKK"
+      }
+    },
+    {
+      "rna": {
+        "id": "B",
+        "sequence": "GGGAGACAAGAAUAAAACGCUCAAUGUGGAUGAUUUGUAUGAUCGCGCAUACAAUUCGACAGGAGGCUCACAACAGGC"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 4
+}
